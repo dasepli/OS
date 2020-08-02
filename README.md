@@ -1,2 +1,2 @@
 # OS
-Repo for Operator System @ ECNU
+Repo for operation system @ ECNU
