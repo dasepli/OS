@@ -1,4 +1,4 @@
-# OS
+# Operation System
 Repo for operation system @ ECNU
 
 - [MIT 6.828](https://pdos.csail.mit.edu/6.828/2014/index.html)
