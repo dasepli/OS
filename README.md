@@ -2,7 +2,9 @@
 Repo for operation system @ ECNU
 
 ## OS projects@ DaSE
-- TBC
+- Project1: Shell Implementation @ MINIX
+- Project2: Scheduler Implementation @ MINIX
+- Project3: File System Implementation @ MINIX
 
 
 ## OS @ CS
